@@ -1,10 +1,10 @@
 #include<stdio.h>
 
 int main(){
-    int score = 90.5;
-    printf("Score:%.1d\n" , score);
+    int score= 90.5;
+    printf("Score: %.1d\n" , score);
 
-     return 0;
+    return 0;
 
 }
 
