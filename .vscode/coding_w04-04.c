@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-    float score = 90.5;
-    printf("Score:%.1f\n" , score);
+    int score = 90.5;
+    printf("Score:%.1d\n" , score);
 
      return 0;
 
